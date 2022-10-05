@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I just learned to code and I'm pretty proud of my accomplishments so far. Check out the Wagon Quest game I worked with Thomas and Paryssa as the lead back-end developer via Ruby on Rails (thanks to the support of Cécile Veneziani). 
+
+You can find me on LinkedIn and also find my one-page résumé on Canva. (Disponibles en français.)
+
 <!--
 **LutherTS/LutherTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
