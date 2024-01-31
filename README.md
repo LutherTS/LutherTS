@@ -1,8 +1,8 @@
 ### Hi there 👋🏿
 
-I just learned to code and I'm pretty proud of my accomplishments so far. Check out the [Wagon Quest](https://www.wagon-quest.xyz/) game I worked and still work on with [Thomas](https://github.com/Tomalexis) and [Paryssa](https://github.com/Paryssatis) as the lead backend developer via Ruby on Rails (thanks to the support of [Cécile Veneziani](https://github.com/cveneziani)).
+I just learned to code and I'm pretty proud of my accomplishments so far. Check out the [Wagon Quest](https://www.wagon-quest.xyz/) game I worked on with [Thomas](https://github.com/Tomalexis) and [Paryssa](https://github.com/Paryssatis) as the lead backend developer via Ruby on Rails (thanks to the support of [Cécile Veneziani](https://github.com/cveneziani)).
 
-...Actually, now I work in JavaScript, TypeScript, React, Next.js and deploy on Vercel.
+...Actually, now I work in JavaScript, TypeScript, React, Next.js and deploy on Vercel. So check out my new demo [Grevents (Starting)](https://grevents-starting.vercel.app/) made with the aforementioned stack. (Special shoutout to PostgreSQL too via Vercel Postgres. The Frontend Cloud is truly in the making.)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAFMX5nAK8o/3edY3C531sOeN50ekk-F9g/view). ✍🏿
 
