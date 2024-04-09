@@ -4,7 +4,7 @@ I've been learning the fundamentals of web development and I'm pretty proud of m
 
 Nowadays, I work in JavaScript, TypeScript, React, Next.js and deploy on Vercel. So I'd recommend looking into my new demo [Grevents (starting)](https://grevents-starting.vercel.app/) made with the aforementioned stack. (Special shoutout to PostgreSQL too via Vercel Postgres. The Frontend Cloud is truly in the making.)
 
-And now I've remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents.net/). Unless I've changed this with one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
+And now I've remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents.net/). Unless I've changed this in one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAFMX5nAK8o/3edY3C531sOeN50ekk-F9g/view). ✍🏿
 
