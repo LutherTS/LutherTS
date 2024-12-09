@@ -6,7 +6,7 @@ Later on, I've been working in JavaScript, TypeScript, React, Next.js and deploy
 
 I've then remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents.net/). Unless I've changed this in one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
 
-Now, I'm a specialist on Next.js 15 and React 19, with my first talk at React Paris Meetup under my belt in the office of Algolia.
+Now, I'm a specialist on Next.js 15 and React 19, with my first talk at React Paris Meetup under my belt in the offices of Algolia.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAF-nN7-ERI/gWpMNadwSpILzEa86Hswzw/view). ✍🏿
 
