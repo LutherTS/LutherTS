@@ -6,7 +6,9 @@ Later on, I've been working in JavaScript, TypeScript, React, Next.js and deploy
 
 I've then remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents.net/). Unless I've changed this in one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
 
-And now, I'm a specialist on Next.js 15 and React 19, with my first talk at React Paris Meetup under my belt in the offices of Algolia.
+And now, I'm a specialist on Next.js 15 and React 19, with my first talk at React Paris Meetup under my belt in the offices of Algolia. You can find my talk in French [here](https://www.youtube.com/watch?v=f-eT7SVEyDQ).
+
+Actually, I've made a second talk, introducing Agnostic Components, as the opener to the Paris React Week 2025, effectively opening for Kent C. Dodds at Remix Paris. You can find this talk in English [here](https://www.youtube.com/watch?v=37DfJLwCT_o).
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAF-nN7-ERI/gWpMNadwSpILzEa86Hswzw/view). ✍🏿
 
