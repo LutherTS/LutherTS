@@ -4,7 +4,7 @@ I've been learning the fundamentals of web development and I'm pretty proud of m
 
 Later on, I've been working in JavaScript, TypeScript, React, Next.js and deploying on Vercel. So I'd recommend looking into my new demo [Grevents (starting)](https://grevents-starting.vercel.app/) made with the aforementioned stack.
 
-I've then remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents.net/). Unless I've changed this in one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
+I've then remade the app functional complete with authentication using Remix, Prisma and Docker via Fly.io. Feel free to use [Grevents (mixing)](https://grevents-mixing-r5.fly.dev/). Unless I've changed this in one click for some reason, you can connect with me there via the following friend code: 6YRti3Ytysye.
 
 And now, I'm a specialist on Next.js 15 and React 19, with my first talk at React Paris Meetup under my belt in the offices of Algolia. You can find my talk in French [here](https://www.youtube.com/watch?v=f-eT7SVEyDQ).
 
