@@ -10,7 +10,7 @@ And now, I'm a specialist on Next.js 15 and React 19, with my first talk at Reac
 
 Actually, I've made a second talk, introducing Agnostic Components, as the opener to the Paris React Week 2025, effectively opening for Kent C. Dodds at Remix Paris. You can find this talk in English [here](https://www.youtube.com/watch?v=37DfJLwCT_o).
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAF-nN7-ERI/gWpMNadwSpILzEa86Hswzw/view). ✍🏿
+You can find me on [LinkedIn](https://www.linkedin.com/in/luther-tchofo-safo/) and also find my one-page résumé on [Canva](https://www.canva.com/design/DAGjbb8v0uQ/9IiW3s6aKVzMkfcQRHwsNw/view). ✍🏿
 
 <!--
 **LutherTS/LutherTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
